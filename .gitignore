@@ -45,3 +45,4 @@ prisma/*.sqlite
 tmp/
 temp/
 EOF
+/generated/prisma
